@@ -1,4 +1,12 @@
 {
+    "name": "tedo/wp-api-jwt-auth",
+    "type": "wordpress-plugin",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://satis.tedomedien.de"
+        }
+    ],
     "config": {
         "vendor-dir": "includes/vendor"
     },
